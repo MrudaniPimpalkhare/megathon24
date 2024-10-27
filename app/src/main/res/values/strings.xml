@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pose Detection App</string>
+    <string name="ok">OK</string>
+    <string name="close">Cancel</string>
+    <string name="back">Back</string>
+    <string name="download">download</string>
+    <string name="info">info</string>
+    <string name="choose_image">Choose Image From Gallery</string>
+</resources>
